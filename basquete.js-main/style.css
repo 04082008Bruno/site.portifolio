@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+body h1 {
+    color: white;
+}
+
+#resultado {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.verde {
+    background-color: green;
+    color: white;
+}
+
+.vermelho {
+    background-color: red;
+    color: white;
+}
