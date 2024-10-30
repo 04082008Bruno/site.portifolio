@@ -1,0 +1,103 @@
+body {
+    background-color: black;
+}
+header {
+    background-color: #1e812e;
+    padding: 20px 0;
+}
+header h1 {
+    color: white;
+    text-align: center;
+    font-size: 44px;
+    margin-top: -50px;
+}
+header h2 img{
+    width: 50px;
+    margin-left: 27%;
+    margin-top: 10px;
+}
+footer{
+    background-color: #1e812e;
+    text-align: center;
+    padding: 40px 0;
+    }
+
+footer img {
+    width: 250px;
+}
+
+.copyright {
+    color: white;
+    font-size: 13px;
+    margin: 20px 0 0;
+    
+}
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+main img {
+    width: 350px;
+  
+}
+.banner {
+    margin: 30px  30px ;
+    width: 30px;
+    margin-left: -25%;
+    margin-top: 130px;
+}
+.trabalhos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+    text-align: center;
+    font-size: 44px;
+    margin-top: -60%;
+    margin-left: 15%;
+}
+
+.trabalhos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding:30px 20px;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.trabalhos li:hover {
+    border-color: rgb(10, 248, 22);
+
+}
+
+.trabalhos li:active {
+    border-color: rgb(255, 0, 0);
+}
+
+.trabalhos li:hover h1 {
+    font-size: 34px;
+}
+
+.trabalhos li img {
+    width: 200px;
+}
+ .trabalhos h1{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+ }
+.principal {
+    background-color: yellow;
+    margin: 30px 0;
+    clear: left;
+    border: 3px solid red ;
+}
+.principal h1 {
+    color: black;
+}
+.principal p {
+    color:rgb(85, 84, 84);
+}
