@@ -7,14 +7,14 @@ let segundaCarta = "";
 botoaReiniciar.addEventListener("click", () => location.reload());
 
 let items = [
-  { nome: "gato", imagem: "150510151421_shark_624x351_justingiligan_nocredit.jpg.webp" },
-  { nome: "cachorro", imagem: "caters_monkey_snapper_03.webp" },
-  { nome: "coelho", imagem: "depositphotos_11012455-stock-photo-cool-fish-wearing-sunglasses.jpg" },
-  { nome: "elefante", imagem: "images (1).jpeg" },
-  { nome: "girafa", imagem: "images(2).jpeg" },
-  { nome: "leao", imagem: "images(3).jpeg" },
-  { nome: "panda", imagem: "images(4).jpeg" },
-  { nome: "tigre", imagem: "images.jpeg" },
+  { nome: "gato", imagem: "bixoestranho.webp" },
+  { nome: "cachorro", imagem: "joia.webp" },
+  { nome: "coelho", imagem: "mathiassorrindo.webp" },
+  { nome: "elefante", imagem: "passarobravo.jpeg" },
+  { nome: "girafa", imagem: "passarococa.jpeg" },
+  { nome: "leao", imagem: "peixecmdente.jpeg" },
+  { nome: "panda", imagem: "peixedeoculos.jpg" },
+  { nome: "tigre", imagem: "simba.jpeg" },
 ];
 
 function criarCartas() {
